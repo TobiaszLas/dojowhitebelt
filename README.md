@@ -3,3 +3,4 @@ Github Dojo Whitebelt
 Learning GitHub is cool!
 A new line (local)
 Commit is about to be proceded.
+Changes shall be aplied.
